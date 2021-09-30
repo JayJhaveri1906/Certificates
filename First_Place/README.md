@@ -1,8 +1,7 @@
-## LEGEND:-
----
+## LEGEND
 
-Hkthn: Hackathons
+- Hkthn: Hackathons
 
-CC:    Co-Curricular
+- CC:    Co-Curricular
 
-EC:    Extra-Curricular
+- EC:    Extra-Curricular
