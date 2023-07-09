@@ -1,0 +1,3 @@
+Inampudi S., Johnson G., Jhaveri J., Niranjan S., Chaurasia K., Dixit M. (2021) Machine Learning Based Prediction of H1N1 and Seasonal Flu Vaccination. In: Garg D., Wong K., Sarangapani J., Gupta S.K. (eds) Advanced Computing. IACC 2020. Communications in Computer and Information Science, vol 1367. Springer, Singapore. https://doi.org/10.1007/978-981-16-0401-0_11
+
+Jhaveri, Jay and Gupta, Abhay and Chhabria, Prem and Ochani, Neeraj and Sengupta, Sharmila, Divya-Drishti: An Independent Aid for the Visually Impaired (May 7, 2021). Available at SSRN: https://ssrn.com/abstract=3867707 or http://dx.doi.org/10.2139/ssrn.3867707
