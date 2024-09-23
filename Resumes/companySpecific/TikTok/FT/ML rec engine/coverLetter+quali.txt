@@ -1,0 +1,37 @@
+Hello, my name is Jay, and I am a highly motivated and enthusiastic individual with a passion for data science and machine learning. I am currently pursuing my Masters of Computer Science at the University of California, San Diego (UCSD) and am expected to graduate in Dec 2023. I have a strong academic background, with a CGPA of 3.9/4 and have taken relevant courses such as Recommender Systems, Computer Vision, and AI: Probabilistic Reasoning.
+
+In addition to my academic pursuits, I have gained valuable experience through internships in both full-stack development and data analysis. I have worked with companies such as Makos Infotech and Leadingindia.ai, where I have had the opportunity to apply my skills and make a real impact. I am also a self-starter and have taken on several projects, including developing a secure off-the-grid chat application and a voice-activated standalone application for the visually impaired.
+
+I am excited about the opportunity to bring my skills and experience to TikTok as an MLE intern. I am confident that my skills and experience make me a strong candidate to be at TikTok, and I am eager to grow and develop while learning from the world-class leaders at TikTok.
+Thank you for your time and consideration. I would appreciate the chance to discuss further my qualifications and how I can contribute to something that people worldwide get real value from! Please feel free to contact me at your convenience by email (jjhaveri@ucsd.edu) or by telephone (+1 858 214 9192).
+
+
+----
+ - Bachelor's degree or above in computer science or a related major, with 2+ years of related work experience;
+
+->Masters in Computer Science, Bachelor in Computer Engineering, 1 year of internship experience.
+
+
+- Strong software development experience with C++, Python or other programming language;
+
+->Very proficient in Python and have done multiple projects in Python scripting and also using Python as a data analyst/ML tool.
+->Familiar with C, and Java. I strongly believe that I am well adapted to OOP concepts and that I can transfer my learning into C++ too.
+
+
+- Experience in one or more of the following areas: applied machine learning, machine learning infrastructure, large-scale recommendation system, market-facing machine learning product;
+
+-> Apart from having taken multiple courses related to machine learning and recommendation systems, I have numerous projects highlighting my ML skills.
+-> One such project I am proud of is Divya Drishti. My team and I managed to achieve a 400% net cost reduction by creating a Voice-activated AI-IoT android application to help Visually Impaired People (VIPs) that is similar to OrCam. This system allowed the VIP user to perform object detection, scene description, and currency recognition to help with their day-to-day life. We were fortunate enough to get feedback from the National Association of the Blind, which allowed us to publish a paper about the same.
+-> Further, I have written an in-depth research paper highlighting how to handle the cold start problem in recommendation systems as part of my Steam Game Recommending system.
+
+
+- Strong communication and teamwork skills;
+
+-> Communication is the key! I have always preferred working in teams over an individual player. In my experience, working in teams allows us to bring each other up and, in turn, the entire project by weeding out weak ideas or paths early on and leaning on each other for their own expertise! I have led and been part of multiple teams, my most fond memory being of winning a 24-hour hackathon where my team and I were working in perfect harmony.
+
+
+- Passion about techniques and solving challenging problems.
+
+-> Continuous Integration and Continuous Delivery is definitely my way of doing projects, which aligns perfectly with Align methodologies. This allows us to be fast-paced while being collaborative!
+
+

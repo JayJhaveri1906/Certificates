@@ -1,0 +1,19 @@
+Dear Sir,
+I hope you are doing well. I am writing to express my gratitude for your kind offer to help me in my internship hunt! I really appreciate your willingness to help me in my career development.
+
+As you may know, I am currently pursuing a Master's degree in Computer Science at the University of California, San Diego, with a specialization in Artificial Intelligence. My primary focus is on computer vision and deep learning, and I am excited to explore different internship opportunities in this area. Unfortunately, I have found that many major tech companies are experiencing a hiring freeze during this layoff season, and only a few positions are publicly available.
+
+I have attached my resume along with a list of recent open positions in companies I would love to work at and that I would consider as a dream job and an invaluable way to gain experience in this field. I hope this will help identify suitable opportunities for me.
+
+Sr No.	Company	Job Name	Job Id
+1	Apple	AIML - Machine Learning Engineer, Health AI:	200428568
+2	Sony	AI/ML Vision & Language Research Intern	JR-112524
+3	Tesla	Machine Learning Intern, 3D Computer Vision – Autopilot, AI	163057
+Full Stack Engineering Internship, Vehicle Software (Fall 2023)	173443
+4	Adobe	2023 Intern - Machine Learning Engineer	R131880
+5	Epic Games	RESEARCH ENGINEER INTERNSHIP - CUBIC MOTION	R23381
+
+Once again, thank you for your assistance and support. I look forward to hearing back from you soon.
+
+Best,
+Jay Jhaveri

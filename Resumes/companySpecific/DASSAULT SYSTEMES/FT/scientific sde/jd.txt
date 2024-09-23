@@ -1,0 +1,41 @@
+Role Description & Responsibilities
+
+BIOVIA, a wholly owned subsidiary of DASSAULT SYSTEMES provides a sophisticated enterprise system of modeling, simulation, machine learning, laboratory, quality, and process execution and data management solutions. Our customers use these systems to discover, design, and deliver innovative, sustainable, and competitive products to consumers globally. These capabilities are delivered through software applications and cloud services which empower scientists and engineers to access, understand and analyze their data to produce quality products.
+
+BIOVIA is looking for a motivated Scientific Software Engineer to join our R&D team in San Diego, CA, in an onsite/hybrid role.
+
+This role will be focused on C++ programming to help direct, develop and maintain our suite of chemistry products and applications
+These applications are a cornerstone of BIOVIA’s enterprise solutions for the pharmaceutical, biotechnological and fine-chemical industries
+This position will be part of a dynamic development team that is dedicated to delivering high-quality, on-time software releases using best-of-breed Agile practices
+The qualified candidate needs to have an excellent background in programming and ample cheminformatics experience, with an understanding of structure representation and searching
+Familiarity with software architecture, design, optimization and maintenance 
+In addition to being a hands-on engineer, the successful applicant will develop collaborative working relationships with applications development, quality assurance, product marketing, technical communications, and technical services teams from across the company
+
+Qualifications
+
+ PhD in Organic, Computational or related Chemistry discipline and a few years of programming experience in a commercial environment is most preferred; otherwise education plus experience can be considered
+ 2+ years of experience in a combination of academic and on the job experience in chemistry and computer science is required
+ Proficiency in C++
+ Knowledge of Java, Python and JavaScript is preferred
+ Familiarity with the use cases, processes and methods used by pharmaceutical and biotech industry, cheminformaticists, and computational chemistry a major plus.
+ Broad technical knowledge in object-oriented design and implementation, design patterns, and software development methodologies.
+ Excellent written and verbal communication skills.
+ Strong analytical and organizational skills.
+ Strong personal drive to learn leading-edge technologies and to excel.
+ Experience with Agile development methodologies such as Scrum development.
+
+Shape your career with 3DS! #WeAre3DS
+
+Compensation for this role will be commensurate with experience. The total expected compensation range will be between $135,000 and $180,000, representing the base salary (or annualized salary based on estimated hourly compensation) and target bonus.
+
+Diversity statement
+
+As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.
+
+Compensation & Benefits
+
+Dassault Systèmes offers an excellent salary with potential for bonus, commensurate with experience. Benefits include a choice of plans providing comprehensive coverage for medical, dental, vision care for employee & dependents as well as employee life, short & long term disability, tuition reimbursement, immediate 401K enrollment, 401K match (50 cents on the dollar, up to the first 8% of your eligible compensation that you contribute based on match eligibility criteria), flexible time off policy, and 10 paid holidays.
+
+Equal opportunity
+
+In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.

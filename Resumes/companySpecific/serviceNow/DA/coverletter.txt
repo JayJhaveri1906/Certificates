@@ -1,0 +1,16 @@
+Dear Hiring Manager at ServiceNow,
+
+I was thrilled to learn about your company at the Career Networking event at UCSD and am very excited about the opportunity to apply for an internship at ServiceNow. I am particularly interested in your ability to provide scalable workflow solutions as a SaaS platform to various companies.
+
+My previous courses in Cloud Computing and personal projects have provided me with a strong understanding of SaaS technology. For example, I trained a machine learning model and successfully hosted it on the cloud, which has further enhanced my skills and knowledge in this area. 
+
+Further, Interning the past 2 summers, I have developed robust data analysis, database management skills, and machine learning, along with my strong problem-solving skills, project management, and ability to work in teams, making me an ideal candidate to become part of "controlled chaos." In my previous internship at LeadingIndia.ai, I worked on a Vaccine Prediction model on the H1N1 and seasonal flu vaccines to accurately predict the trends of the public acceptance rate (41%) of the Covid-19 vaccine. My team and I were able to publish a research paper on the topic and wrote a blog showcasing the correlation between the two pandemics.
+
+Additionally, during my Masters in CS at UCSD, as part of the Recommendation Systems course, I got familiar with the theory behind collaborative filtering and latent factor models concerning recommending and predicting user behaviors. I implemented this knowledge in the final thesis report of the course by deploying machine learning algorithms, including N-gram, Multinomial NB, and Linear SVC, analyzing user reviews and how likely they were trying to recommend a product.
+
+I am confident that my skills and experience make me a strong candidate to be a band member, and I am eager to learn from the experts at ServiceNow and contribute to the company's success. I would love the opportunity to discuss my qualifications and potential contribution in more detail and am available for contact by email at jjhaveri@ucsd.edu or by phone at +1 858 214 9192.
+
+Thank you for considering my application. I look forward to the opportunity to speak with you soon.
+
+Sincerely,
+Jay Jhaveri

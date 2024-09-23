@@ -1,0 +1,78 @@
+Hey,
+Hope you are having a great day!
+
+To help the recruiter, I'll answer each qualification in order!
+
+Required
+
+- A degree in Computer Science, Computer Engineering, Informatics, Information Systems, Data Science, or any other relevant work experience or certifications.
+Masters in Computer Science from UC San Diego (UCSD) (gpa 3.979)
+Bachelors in COmputer Engineering Mumbai University  (gpa 3.75)
+
+
+- Proven ability to contribute to the development of full-stack web applications in a team environment.
+- Strong task management and organizational skills.
+Have led, and been part of multiple teams. Very aware of agile, scrum principles, its advantages, its drawbacks.
+Communication is the key! I have always preferred working in teams over an individual player. In my experience, working in teams allows us to bring each other up and, in turn, the entire project by weeding out weak ideas or paths early on and leaning on each other for their own expertise! I have led and been part of multiple teams, my most fond memory being of winning a 24-hour hackathon where my team and I were working in perfect harmony.
+Continuous Integration and Continuous Delivery is definitely my way of doing projects. This allows us to be fast-paced while being collaborative!
+
+
+- Strong grasp of object-oriented programming, data structures and algorithms, and test-driven development principles.
+My extensive experience with Python, my primary programming language since my undergraduate years, along with C, C++, Java, and JavaScript, has been honed across multiple high-impact internships. For instance, during my tenure as a Full Stack Development Intern at Makos Infotech, I developed server-side code using JQuery, PHP, and MySQL, and deployed relational databases on AWS RDS.
+
+
+- Proficiency in modern, full-stack web development with Python and Django.
+Highly proficient in Python. In fact, Python has been my main programming language since my first year in undergrad!
+I am familiar with and have used various ML libraries like PyTorch, TensorFlow, Wts and Biases, useful for developing and deploying ml models.
+I have also used Tflite to deploy a lightweight image classification model as part of my Divya Drishti project, and more recently, I am researching in a team of 5, working on a smart mirror with the ML model deployed on a Raspberry Pi.
+
+Profficient in Django, did multiple projects, one of particular was Publications Website which handled 200 students and enabled them to freely access their professors and college's research papers.
+
+
+- Experience with cloud services - AWS preferred.
+As part of my internship at Legendary, I extensively used Azure MS Graph APIs and their Active Directory to write scripts and gather data to perform user behaviour analysis.
+I have previously used AWS, more specifically S3 when I was working as a volunteer SDE at a university startup to help them optimize scripts for data transfer in JSON format.
+I am also familiar with Firebase and Google Cloud and have specifically used GCP to train multiple DL Models.
+
+
+- Experience with relational database (PostgreSQL, MySQL).
+As part of my Full Stack Engineering internship at Makos Infotech I was tasked with handling their server side backend code along with managing their relational databases hosted on AWS RDS.
+Apart from that, I have great expereince of using MySQL and similar in various projects.
+
+
+- Experience with locally testing and debugging applications using Docker.
+Have used Docker to develop and export multiple projects throughout my time at Ujima S&P at UCSD.
+Wrote testing scripts for the same.
+
+
+- A strong commitment to personal and professional development.
+Yes, definitely! :)
+
+
+
+Preferred
+
+
+- Strong UI/UX design skills.
+Have designed multiple products always keeping the user's perspective first. Feedback is the real mvp to make these decisions.
+Specifically, two projects that come to mind are my Divya Drishti Project where we got regular feedback from the members of National Association of Blind while we were designing a Audio based AI-IOT project to help them with their daily tasks.
+
+
+
+- Experience using Python libraries like Pandas and NumPy for data processing.
+Yes! Throughout my 4 years of undergrad and 2 years of masters and ML, I have been using pandas and numpy vectorization!
+
+
+- Experience with high performance and distributed computing tools for processing big data (Spark, Hadoop, OpenMP, etc).
+As part of my Scalable Data/ML System course during my masters and Distributed Systems and Computing, I am familiar with concepts like map-reduce used in deploying and executing training/inference in parallel.
+
+
+
+Looking forward to innovate for peace at C4ADS!
+
+Thanks for your time and consideration,
+
+
+Best,
+Jay
+

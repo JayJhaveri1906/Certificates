@@ -1,0 +1,13 @@
+Hi Joe,
+I got to know about this role opening while going through Wendy's email. I found myself an excellent fit for the role when I read about the company and what an SE intern would work on.
+
+To elaborate, in my past internship experiences, I have worked from creating smooth, modern UI/UX models on Figma, handling structured relational databases, to writing an in-depth research paper about my work on the prediction of vaccine acceptance rate based on past pandemic data at leadingIndia.ai. 
+
+Apart from mentoring newer interns and getting them comfortable with the existing code base, I have also co-pitched the company's online campus placement portal "Jobaskit" to a University, hoping to secure funding.
+
+Further, during my Masters in CS at UCSD, as part of the Recommendation Systems course, I got familiar with the theory behind similarity and latent factor models concerning recommending and predicting user behaviors. I implemented this knowledge in the final thesis report of the course by analyzing reviews of users and how likely they were trying to recommend a product.
+ 
+Thank you for considering and taking the time out of your day. My past experiences and my affinity towards problem-solving will make me a great backend NetSpringer.
+
+Best,
+Jay Jhaveri

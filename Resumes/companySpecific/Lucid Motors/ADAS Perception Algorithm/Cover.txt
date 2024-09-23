@@ -1,0 +1,11 @@
+I am excited to apply to Lucid Motors! With no doubt in my mind, I can say that Lucid is the only company that can match, if not better, the features of Tesla regarding EVs.
+
+During my internship at Leadingindia.ai, I applied and compared various machine learning algorithms to accurately estimate the vaccine acceptance rate for Covid 19 Vaccines based on previous H1N1 pandemic Data. I followed it by publishing the highlights of these results.
+
+I also have experience working with Arduino software. In undergrad, the most exciting project I made using Arduino was a small flying drone. It was a fun time coding and testing the drone to fly stably by moving the diagonal rotors in the opposite rotation, followed by adjusting the speed of the rotors to be able to move in any direction based on the commands given.
+
+I would love to be part of the next-generation technology of self-driving autonomous vehicles with Lucid. Thank you for considering my application and taking the time out of your day.
+
+Regards,
+Jay Jhaveri
+

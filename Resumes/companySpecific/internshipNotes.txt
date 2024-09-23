@@ -1,0 +1,59 @@
+
+
+
+Certainly! Here are 2-3 important bullet points you can add to your resume based on your internship experience:
+
+Data Analysis and Workflow Optimization:
+
+Utilized Splunk to aggregate data from numerous sources, enabling comprehensive analysis of user and application data.
+Developed Python scripts and optimized Splunk queries (SPL) to create a streamlined workflow for tracking and outlining employee online activity.
+Significantly improved efficiency by helping the security architect detect false positives 10 times faster, even without prior experience in SPL query writing.
+
+Single Sign-On Integration and Security Enhancement:
+
+Collaborated in the integration and testing of a FIDO Alliance product into the company's single sign-on (SSO) workflow.
+Contributed to simplifying the employee sign-in process while enhancing security measures, ensuring a more straightforward and secure access to company products.
+
+SLIP (Shared Learning Intelligence Platform) Development:
+
+Under the guidance of Dan Meacham, played a pivotal role in laying the groundwork for the creation of the Shared Learning Intelligence Platform (SLIP).
+Contributed to the vision of enhancing communication between security cloud brokers, aiming to create a robust anomaly detection system for improved cybersecurity.
+
+
+
+-----------------
+List at least 5 things you learned in the internship:
+
+1) The first major thing I was able to do was develop my soft skills! I was allowed to interact with people outside of my domain knowledge, which helped me learn to communicate my ideas in a more natural way.
+2) Coming to the technical part, the biggest thing I learned is how to manage the company's terabytes and terabytes of security data with gigabytes of data flying in daily. I got pretty familiar with Splunk, A data aggregator and visualizer. 
+3) I learned a new query language, SPL: Search Processing Language, which helped me query their company dataset. I further learned how to optimize these searches so that the visualizations load up faster. By the end of my internship, I had updated multiple of their reports to have load time within 5 seconds, whereas originally it was up to 25.
+4) Along with my Mentor, I started to learn how to develop a new idea, brainstorm it and start implementing it. In my case, the idea was SLIP (Shared Learning Intelligence Platform). I co-pitched the ideas to other security cloud brokers like Sky High, which allowed me to further develop my pitching skills.
+5) I also toured their server and network architecture, showing how the DMZ network keeps the company secure.
+6) I collaborated in integrating and testing a FIDO Alliance product into the company's single sign-on (SSO) workflow. This also allowed me to be on the other side of the table and to vet and analyze when a product is being pitched to us.
+
+---
+What were the major projects that you were assigned? What was the approximate duration of each activity? How were you able to complete those projects and tasks that were requested of you?
+
+During the first two weeks, my coworkers and mentors helped me get familiar with their tech stack, mainly Splunk and SPL and how they use it to basically analyze all the data they have and perform anomaly detection and incident response.
+Coming from a data analytics background, I was mainly tasked with cleaning their existing data and helping these multiple independent sources of data talk to each other. I completed this by developing Python scripts and optimizing Splunk queries (SPL) to create a streamlined workflow for tracking and outlining employee online activity.
+This significantly improved efficiency by helping the security architect detect false positives ten times faster, even without prior experience in SPL query writing. (This lasted throughout my internship time)
+
+Along with this, on the side, I also collaborated in the integration and testing of a FIDO Alliance product into the company's single sign-on (SSO) workflow.
+This contributed to simplifying the employee sign-in process while enhancing security measures, ensuring a more straightforward and secure access to company products. (This Project was on the side, with multiple meetings weekly)
+
+Finally, during the later stages of the internship, under the guidance of Dan Meacham, I played a pivotal role in laying the groundwork for the creation of the Shared Learning Intelligence Platform (SLIP). SLIP basically contributes to the vision of enhancing communication between security cloud brokers, aiming to create a robust anomaly detection system for improved cybersecurity. (Was part of multiple meetings where we discussed and pitched this idea to existing cloud security brokers like Sky High Security, throughout my last month of the internship)
+
+---
+How did the academic coursework/experience at UC San DIego prepare you for the training?
+
+My Deep learning courses really helped me understand the importance of clean data and how to optimize the data so that it can be efficiently fed into neural network models.
+
+Building on this, courses like Recommendation System helped me refine my data analysis and visualization knowledge, which was very useful in transferring my skills to a new application.
+
+Further, my generative AI, and advanced data mining courses helped me contribute to new ideas into my mentor's dream project: SLIP.
+
+---
+How do you think the training will benefit you in reaching your academic and career goals?
+
+I think this training really helped me feel how it feels in a less structured environment.
+In academics, we always start a project from scratch. While doing this internship really gave me the ability to get involved in an ongoing project and adapt to new technologies I have never used before. Hence, this was a really good industry experience for me and allowed me to build more connections in the field I am interested in.

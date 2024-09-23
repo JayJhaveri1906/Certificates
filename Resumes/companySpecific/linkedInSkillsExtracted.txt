@@ -1,0 +1,57 @@
+Chrome Extensions Development
+Alt Bot Development for Mastodon (Automatic Image Alt Generation)
+Decentralized Social Media
+Mastodon API
+Working with Large Language Models (LLM)
+Leadership in technology and project management
+Survey Research
+Amazon Web Services (AWS)
+Full Stack Engineering
+JavaScript
+Computer Vision
+Teamwork and Collaboration
+Data Science
+NumPy
+PyTorch
+TensorFlow
+Understanding and Application of Machine Learning Algorithms
+Applied Machine Learning
+Pattern Recognition
+Flutter Development
+Pandas (Software)
+User Documentation
+Computer Science and Engineering
+Scientific Research
+Research Projects Management
+Deep Learning
+Independent Research
+Problem Solving
+Communication
+Software Development
+English Language Proficiency
+Analytical Skills
+Android Studio
+Python Programming
+Machine Learning
+Research Methodologies
+HTML
+Android Development
+Java Programming
+PHP
+Django
+Bootstrap
+Network Security
+Cryptography
+R Programming
+Random Forest Algorithms
+Graphic Design
+Linear Regression
+Logistic Regression
+Decision Trees
+XGBoost
+React.js
+C# Programming
+MySQL
+jQuery
+Figma (Software)
+Amazon Relational Database Service (RDS)

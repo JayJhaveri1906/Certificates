@@ -1,0 +1,48 @@
+Job Description
+About the Role
+
+
+Contributes to the design, development, optimization, and productionization of machine learning (ML) or ML-based solutions and systems that are used within a team to solve well-defined problems leveraging the support and guidance of others on the team. This role also learns to use and improve ML infrastructure for model development, training, deployment needs and scaling ML systems.
+
+ 
+
+About the Team
+
+ 
+
+At Uber, engineers address a wide variety of bold problems and situations as we continue to innovate and develop products. We are on the lookout for individuals who demonstrate exceptional problem-solving skills, critical thinking, and a strong foundation in coding. This role offers the opportunity to work across all levels of the ML stack, spanning from infrastructure to ML model development and productionisation.
+
+ 
+
+What the Candidate Will Do
+
+ 
+
+Develop and productionize machine learning algorithms for multiple business problems
+Deeply engage with product datasets analyze them to understand and drive product insights, further model iterations.
+Continuously innovate and apply state-of-the-art ML algorithms at Uber Scale.
+Minimum Qualifications
+
+Completing a Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics, or a related field, plus a 3-months total software engineering experience gained through work, education, coursework, training, research or similar in any area. 
+
+Proficiency in one or more object-oriented programming languages such as Python, Go, Java, C++.
+Experience with big-data architecture, ETL frameworks, and platforms (e.g., Hive, Spark, Presto)
+Working knowledge of contemporary machine learning and deep learning frameworks (e.g. PyTorch, TensorFlow, JAX).
+ 
+
+Preferred Qualifications
+
+
+Multimodal Classification (Natural Language Processing, Computer Vision)
+Experience building reusable embeddings, applications and fine tuning of large language models.
+Deep understanding of all aspects of machine learning model lifecycles (from prototypes, feature engineering, training, inference, deployment, monitoring).
+Strong statistical and experimental foundation and acumen to develop insights from data.
+ 
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$140,000 per year - USD$147,000 per year.
+
+
+For Sunnyvale, CA-based roles: The base salary range for this role is USD$140,000 per year - USD$147,000 per year.
+
+
+For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.

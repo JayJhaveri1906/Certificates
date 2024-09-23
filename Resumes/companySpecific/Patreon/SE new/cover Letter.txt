@@ -1,0 +1,15 @@
+Dear Hiring Manager, Epsilon,
+I am very excited to apply for the software engineering internship at Epsilon. After a thorough look at the job description, I realized the immense overlap between my skills and knowledge and what you are looking for in a potential intern.
+
+To elaborate, I am currently a first year master's student at UCSD majoring in Computer science. I have had almost one year of Full Stack experience in coursework, projects, and internships. My most recent endeavor is with a stealth startup in the Bay Area, where I am tasked to develop and integrate their existing python backend to a well-designed, user-friendly website, utilizing AWS and React JS in the process. 
+
+Further, Interning the past 2 summers, I have developed robust data structures, data analysis, and database management skills along with my strong problem-solving skills, project management, and ability to work in teams, making me an ideal candidate to become an SDE at Epsilon. In my previous internship at yet another startup, Makos Infotech, I developed the server-side rendering for their online campus placement website using JavaScript, PHP, and MySQL. Along with this. I also created and managed the existing relational databases using MySQL Workbench. Further, I helped model the website's user interface using Figma and Bootstrap. I enjoyed the opportunity to work on a real-world project and make a tangible impact on the company's product.
+
+Additionally, I love Epsilon's mission of broadcasting advertisements of companies to users but ensuring that all data stays private and secure. I have been interested in privacy-preserving machine learning, with a specific interest in Federated Learning and Differential Privacy. I would love the opportunity to assist the teams that achieved these theoretical concepts in the real world!
+
+I am confident that my skills and experience make me a strong candidate to be at Epsilon, and I am eager to grow and develop while learning from the Best-in-class teams at your company. 
+
+Thank you for your time and consideration. I would appreciate the chance to discuss further my qualifications and how I can contribute to something that benefits advertisers and users alike! Please feel free to contact me at your convenience by email (jjhaveri@ucsd.edu) or by telephone (+1 858 214 9192).
+ 
+Sincerely,
+Jay Jhaveri

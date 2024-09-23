@@ -1,0 +1,11 @@
+Envisioning the future of technology and sustainable innovation has always been my professional passion. That's why the prospect of contributing to Tesla's cutting-edge Software Engineering team has me genuinely excited. Armed with a Master's in Computer Science and a Bachelor's in Computer Engineering, I am eager to leverage my skills and expertise to drive Tesla's mission of transforming the automotive industry :)
+
+Proficient in Python, with a versatile background in Java, C, and OOP, I am well-positioned to seamlessly adapt to the challenges presented by Tesla's dynamic software landscape. During my undergraduate studies, I prioritized balanced application development, excelling in frontend tools like HTML, CSS, JavaScript, React, and Bootstrap. I have hands-on experience in writing and shipping customer-facing code, emphasizing code quality, maintainability, and performance.
+
+Further, I bring leadership experience in developing an Android application called Aatmanirbhar Samakraman which featured multi-part upload methodologies, encryption, and integration of Google Maps and Sheets API for live tracking of application users.
+
+Finally, apart from taking multiple courses like Scalable Data Systems where we had hands-on with scalable architectures like Spark, I have some project experience when it comes to Amazon RDS database, AWS, and Docker/Kubernetes.
+
+I am eager to be part of Tesla's innovative spirit, and I look forward to discussing how my skills and enthusiasm can contribute to the success of this Software Engineering team.
+
+Thank you for considering my application, hope you have a great day!

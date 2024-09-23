@@ -1,0 +1,10 @@
+Dear Hiring Manager, Got It,
+I am very interested in the Generative Deep Learning Models. After hearing about your company and seeing a position that was an exact fit for my long-term goals of working in the generative DL space, I couldn't wait to apply. The launch of ChatGPT, Bard has strengthened my affinity for working in this space!
+
+I have done multiple projects in the deep learning space. Most recently, I have been using the Deep-Q Learning Reinforcement technique to develop an autonomous race car to traverse the scaled-down version of the Zandvoort race track. Further, I also led a team of two to develop a Pixel-wise semantic segmentation using custom DL models and transfer learning using modified Resnet and U-Net architectures!
+
+I am confident that my skills and experience make me a strong candidate, and I am eager to grow and develop while learning from the world-class leaders at Got it. Thank you for your time and consideration. I would appreciate the chance to discuss further my qualifications and how I can contribute to work that makes a Difference! Please feel free to contact me at your convenience by email (jjhaveri@ucsd.edu) or by telephone (+1 858 214 9192).
+
+Sincerely,
+
+Jay Jhaveri

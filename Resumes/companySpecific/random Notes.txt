@@ -1,0 +1,44 @@
+Required Qualifications:
+Bachelors or Master’s in Computer Science, Data Science, Cybersecurity, or a related field.
+- Masters in Computer Science, Bachelors in Computer Engineering.
+
+Demonstrated experience in data modeling, machine learning, and AI, specifically with generative models and large language models (LLMs).
+- Did this as part of multiple projects throughout my masters.
+
+Proficiency in programming languages such as Python or Java, and experience with AI and machine learning frameworks (e.g., TensorFlow, PyTorch).
+- Have been using Python since my first year of undergrad. Have vast experience with Java, it being my first programming language. Have almost 3 years of experience with PyTorch and Tensorflow building ML and DL models.
+
+Strong background in data engineering, including experience with big data technologies (e.g., Hadoop, Spark) and database management systems (SQL, PostgreSQL, Mongo etc.)
+- As part of my Scalable Data/ML System course during my masters and Distributed Systems and Computing, I am familiar with concepts like map-reduce used in deploying and executing training/inference in parallel.
+
+Familiarity with cybersecurity principles, data privacy, and ethical AI considerations.
+- Yes. As part of my current research lab Ujima, we are heavily invested in the privacy concerns of people and the security aspect of the same.
+
+Exceptional analytical and problem-solving skills & Excellent communication and collaboration abilities.
+- Communication is the key! I have always preferred working in teams over an individual player. In my experience, working in teams allows us to bring each other up and, in turn, the entire project by weeding out weak ideas or paths early on and leaning on each other for their own expertise! I have led and been part of multiple teams, my most fond memory being of winning a 24-hour hackathon where my team and I were working in perfect harmony.
+- Continuous Integration and Continuous Delivery is definitely my way of doing projects. This allows us to be fast-paced while being collaborative!
+- Throughout my internships, I have been grateful to be able to seek out opportunities where I can share our team's vision with people from other teams and people outside of my domain knowledge.
+- These interactions have allowed me to learn to communicate my ideas in a more natural and simplistic way.
+
+Experience in developing and deploying applications in a cloud environment (AWS, Google Cloud, Azure) using cloud native technologies.
+- As part of my internship at Legendary, I extensively used Azure MS Graph APIs and their Active Directory to write scripts and gather data to perform user behaviour analysis.
+- I have previously used AWS, more specifically S3 when I was working as a volunteer SDE at a university startup to help them optimize scripts for data transfer in JSON format.
+- I am also familiar with Firebase and Google Cloud and have specifically used GCP to train multiple DL Models.
+
+Preferred Qualifications:
+
+Experience with cybersecurity data analysis or working in a cybersecurity environment.
+- 6 month experience as part of my legendary entertainment cybersecurity internship.
+- 1 year undergraduate researcher with Tata Institute of Fundamental Research (TIFR) research of cybersecurity protocols and building a off the grid multi media web chat, with robust security features.
+
+Publications or contributions to the field of AI, machine learning, or cybersecurity.
+- https://doi.org/10.1007/978-981-16-0401-0_11
+- https://doi.org/10.1007/978-3-031-18497-0_41
+
+Experience with version control systems, CI/CD pipeline systems such as Git.
+- Continuous Integration and Continuous Delivery is definitely my way of doing projects using git. This allows us to be fast-paced while being collaborative!
+
+Familiarity with containerization and orchestration technologies (e.g., Docker, Kubernetes).
+- Have worked with Dockers.
+
+

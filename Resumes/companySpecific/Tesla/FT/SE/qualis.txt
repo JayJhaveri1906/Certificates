@@ -1,0 +1,52 @@
+Requirements:
+
+- BS/MS in Computer Science, Information Systems, Electrical Engineering or the equivalent in experience
+
+-> Masters in Computer Science. Bachelors in Computer Engineering.
+
+
+- Evidence of exceptional achievement in academia or industry
+
+-> Yes.
+
+- Proficient in Python
+
+-> Very proficient in Python and have done multiple projects in Python scripting and also using Python as a data analyst/ML tool.
+-> Familiar with C, and Java. I strongly believe that I am well adapted to OOP concepts and that I can transfer my learning into C++ too.
+
+
+- Proficient in front end frameworks
+
+-> Throughout my undergrad I have always given equal importance to frontend along with the backend of my application. This is because only a well designed UI/UX can give justice to an equally capable backend machinery.
+-> This has allowed me to work with front-end tools like html, css, javascript and frameworks like React and bootstrap. I had used React and Node JS to help me build the Aatmanirbhar chat application.
+
+
+- Experience writing and shipping customer-facing code
+
+-> Yes.
+
+
+- High standards for code quality, maintainability, and performance
+
+-> Yup, in fact I have seen that in industry people are always jumping into the ne and exciting hot topic while pushing maintainability of existing code base to side lines. I strongly insist that maintainability is still a part of the development process and brown field software engineering is as vital as a green field project.
+
+
+- Willingness to learn new technologies in any area of the stack: Vehicle Control, Routing/Guidance Algorithms, Server Infrastructure, UI, Embedded Systems 
+
+-> Being an Engineer I am always excited and happy to learn new technologies!
+
+
+Nice to have:
+
+- Experience with Maps / GIS / Computational Geometry data is a strong plus
+
+-> Led a team of 4 to develop an android application that monitors a selected directory and uses multi-part upload methodologies to encrypt and securely upload to the dedicated remote server hosted via Node JS.
+-> Utilized Google Maps and Sheets API to build a Bootstrap based website for live tracking feature of the uploader.
+
+
+Experience in Go, Spark, AWS, Kubernetes, Jenkins is a plus
+
+-> Apart from having multiple courses like Scalable Data systems where we had hands on with scalable architectures like spark I have some project experience when it comes to Amazon RDS database, AWS and Docker/Kubernetes.
+
+
+Research or development experience in shortest path algorithms is a plus

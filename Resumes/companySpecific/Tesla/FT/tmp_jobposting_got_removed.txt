@@ -1,0 +1,56 @@
+Software Development Engineer, Dojo
+
+212868
+
+
+- Fluent in system-level languages such as Python, C, C++.
+
+-> Very proficient in Python and have done multiple projects in Python scripting and also using Python as a data analyst/ML tool.
+-> Familiar with C, and Java. I strongly believe that I am well adapted to OOP concepts and that I can transfer my learning into C++ too.
+ 
+
+- Experience with Linux, Docker, Bash, and Git
+
+-> Extremely familiar with programming in a linux based environment. I have always used git as my main version controlling and contributing tool in team based projects. 
+-> I have used docker to package our projects into a easily portable executables. Further, during my recent internship at Legendary Entertainment as a Security Data analyst, I helped them setting up a docker dev environment to be able to run a jupyter notebook session inside their data aggregation software Splunk.
+
+
+
+- Experience developing or working with CI/CD pipelines
+
+-> I strongly believe that in today's internet age, Continuous integration and development is the only suitable way to develop applications. I started implementing a robust CI/CD in my projects since my third year engineering, which enabled me to get vital user feedback and advices at each step of my projects!
+
+
+- Strong understanding of computer networks
+
+-> Apart from taking multiple courses about computer networks and scalable systems in distributed environment, I have had my share of hands on experience with managing and configing computer networks for my projects.
+-> The most prominent usecase of computer networks being in my "AatmaNirbhar Sanchar: Self-Sufficent Comms" project which was aimed to provide an off the grid, multi-platform encrypted chat application within an organisation. In the research stage of this project, I had the fortune to prototype using multiple networking methods including web rtc, socket programming and client-server architecture.
+
+
+- Proficiency using React, TypeScript, or other front-end design languages/tools
+
+-> Throughout my undergrad I have always given equal importance to frontend along with the backend of my application. This is because only a well designed UI/UX can give justice to an equally capable backend machinery.
+-> This has allowed me to work with front-end tools like html, css, javascript and frameworks like React and bootstrap. I had used React and Node JS to help me build the Aatmanirbhar chat application.
+
+- Experience with data structures, architectures, and languages such as SQL and MongoDB
+
+-> I treat data structures as the foundational elements of designing a great architecture. Depending on the use case, a equally fit datastructure will give the application a great performance boost.
+-> Additionally, I am very familiar with SQL and have exposure to MongoDB. During my internship at Makos Infotech as a full stack developer I was tasked with integrating their server backend architecture and communication with AWS database using MySQL Workbench.
+
+- Versed in software fundamentals including software systems design and maintainability
+
+-> Yup, in fact I have seen that in industry people are always jumping into the ne and exciting hot topic while pushing maintainability of existing code base to side lines. I strongly insist that maintainability is still a part of the development process and brown field software engineering is as vital as a green field project.
+
+- Experience with full-stack development
+
+-> I consider myself as a self starter, which allows me to look at problems and start desiging and building efficient solutions for it. My this workflow throughout my undergrad have enabled me to take a full stack developer role in contrast to strongly sticking to a single one. 
+-> I still remember the notion that our professor always used to mention that be Full-Stack aware are all times! The entire codebase should feel like that it was written by a single engineer.
+
+- Ability to collaborate and communicate technical concepts to those in non-software roles
+
+-> Communication is the key! I have always preferred working in teams over an individual player. In my experience, working in teams allows us to bring each other up and, in turn, the entire project by weeding out weak ideas or paths early on and leaning on each other for their own expertise! I have led and been part of multiple teams, my most fond memory being of winning a 24-hour hackathon where my team and I were working in perfect harmony.
+-> Further, interning in a non tech field company, I had faced first hand experience of pitching technical ideas and concepts to people not familiar with programming.
+
+- Interest in solving complex and time critical problems
+
+-> My whole motivation of choosing Engineering as my career is because I get a kick out of being able to solve comples, time critical problems in an efficient manner :)

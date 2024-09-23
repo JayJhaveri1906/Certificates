@@ -1,0 +1,25 @@
+I have been using Figma since my first year of undergrad to quickly come up with beautiful wireframes alongside my teammates.
+I would love to be a part of a team in a company whose product itself promotes teamwork and quality! :)
+
+Here's to a future Figmate in working!
+
+P.S.: Loved the 30-60 days bottom-up approach you guys have for new grads!🧡
+
+- A strong baseline in statistics, Computer Science, Mathematics, Economics, or other quantitative field
+
+Masters in Computer Science with a major in Artificial Intelligence
+
+- Experience with R, Python, or similar scripting language
+
+I am proficient in Python, Java, Javascript, and C.
+
+
+- Firm knowledge of statistical methods and models
+
+Apart from having taken multiple data structure courses, I have developed numerous projects and optimized them using efficient data structures and CS fundamentals.
+
+
+- A self-starting approach along with strong communication and collaboration skills
+
+I strongly believe that 20% of a SE job is coding, while 80% of being a successful Software Engineer is effective communication!
+At Legendary Entertainment, although being an intern, I had taken up initiative to clean up their existing pipelines handling their terabytes of security data, which in turn makes it easier to run statistical and ML models over the same data to solve false anomaly detection problems!

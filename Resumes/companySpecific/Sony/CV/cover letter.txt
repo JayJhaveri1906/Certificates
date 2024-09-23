@@ -1,0 +1,14 @@
+Hi,
+
+I hope you are doing great!
+
+My name is Jay, and I am currently pursuing a Master's degree in computer science at UCSD. I have a passion for computer vision and its broad range of applications. Over the past few years, I have worked on several computer vision projects, including currency and color detection for visually impaired individuals, as well as captioning images using a CNN-LSTM architecture. I have also gained proficiency in epipolar and homogenous geometry concepts as part of my computer vision coursework. Additionally, I have evaluated the performance of my pixel-wise semantic segmentation model using metrics such as IoU and pixel accuracy.
+
+My current side project is creating an open-source project of generating royalty-free music using genres. I have implemented the music synthesis using multiple architectures and am currently training a C-RNN-GAN using LSTM architecture instead of RNN. The music is encoded using Facebook's EnCodec architecture and genre by BERT.
+
+I am very excited about this opportunity to contribute to Flawless. Would love to have a chat to learn more about it!
+
+Thank you for your time and consideration,
+
+Best,
+Jay

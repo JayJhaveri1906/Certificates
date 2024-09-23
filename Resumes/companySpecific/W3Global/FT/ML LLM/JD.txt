@@ -1,0 +1,34 @@
+About the job
+Job Description
+
+AI/ML model development and validation, AutoML, pandas, pyspark, Timeseries analysis, MLOps processes, etc.
+
+ Collaborate with colleagues across multiple teams (Data Science and Data Engineering) on unique machine learning system challenges at scale.
+ Leverage distributed training systems to build scalable machine learning pipelines for model training and deployments in the IT/OT Products space.
+ Design and implement solutions to optimize distributed training execution in terms of model hyperparameter optimization, model training/inference latency, and system-level bottlenecks.
+ Research and implement state-of-the-art LLM models for different business use cases including finetuning and serving the LLMs.
+ Ensure ML Model performance, uptime, and scale, maintaining high standards of code quality and thoughtful design quality and monitoring.
+ Optimize integration between popular machine learning libraries and cloud ML and data processing frameworks.
+ Build Deep Learning models and algorithms with optimal parallelism and performance on CPUs/ GPUs.
+
+Your Background And Who You Are
+
+ MS or Ph.D. in Computer Science, Software Engineering, Electrical Engineering, or related fields.
+ 3+ years of industry experience with Python in a programming-intensive role.
+ 2+ years of experience with one or more of the following machine learning topics: classification, clustering, optimization, recommendation system, graph mining, deep learning.
+ 3+ years of industry experience with distributed computing frameworks such as Spark, Kubernetes ecosystem, etc.
+ 3+ years of industry experience with popular ml frameworks such as Spark MLlib, Keras, Tensorflow, PyTorch, HuggingFace Transformers, and libraries (like scikit-learn, spacy, gensim, CoreNLP, etc.).
+ 3+ years of industry experience with major cloud computing services.
+ Background or experience in building and scaling Generative AI Applications, specifically around frameworks like Langchain, PGVector, Pinecone, and AzureML.
+ Prior experience in building data products and establishing a track record of innovation would be a big plus.
+ An effective communicator - you shall be an ambassador of Honeywell's Machine Learning engineering at external forums and have the ability to explain technical concepts to a non-technical audience.
+ Background or experience in building and scaling Generative AI Applications, specifically around frameworks like Langchain, PGVector, Pinecone, AzureML
+ Industry experience with popular ml frameworks such as Spark MLlib, Keras, Tensorflow, PyTorch, HuggingFace Transformers, and libraries (like scikit-learn, spacy, gensim, CoreNLP, etc.).
+
+Experience in designing scalable services controller architecture using FastAPI.
+
+ Proficient Python/PySpark coding experience
+ Proficient in containerization services
+ Proficient in Azure ML to deploy the models
+ Experience with working in the CICD framework
+ Motivation to make downstream modelers' work smoother

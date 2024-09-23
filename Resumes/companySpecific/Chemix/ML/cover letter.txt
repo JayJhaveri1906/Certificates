@@ -1,0 +1,12 @@
+Tensorflow or Pytorch?
+
+I am pretty comfortable with both.
+If I had to choose one, I would choose PyTorch just because that's what is most extensively used in Academia, and over the course of my 5 years of dealing with machine learning, I have more experience with Pytorch than Tensorflow.
+Apart from my personal opinion, I believe Google has stopped being active in the open source ML development workflows, while PyTorch has continuously kept updating with more and more features, like DeepSpeed.
+
+
+
+What ML project have you worked on that you are most proud of?
+
+For me, the answer to this question keeps changing depending on what I am presently working on :)
+If I had to choose one, I would choose the Divya Drishti project. That project not only let me explore multi-modal machine learning but also gave me a chance to meet with the beautiful people of NAB, India.
